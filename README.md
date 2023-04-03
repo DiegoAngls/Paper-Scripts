@@ -13,5 +13,5 @@ Scripts for our papers. Readers can check, replicate or make use of the scripts 
 M. Sc. Diego Angeles Valdez,    
 PhD Student,   
 LANIREM (National MRI Laboratory), Institute of Neurobiology, Universidad Nacional Autónoma de México (UNAM), Querétaro, México.   
-Twitter:[@diegoangls](https://twitter.com/diegoangls)
+Twitter:[@diegoangls](https://twitter.com/diegoangls)   
 Email: diego.ang.val@gmail.com, diego.ang.val@inb.unam.mx   
